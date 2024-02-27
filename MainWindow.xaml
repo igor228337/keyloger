@@ -5,9 +5,45 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KeyLoger"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="600" Width="800">
     <Grid>
-        <Label Content="KeyLoger" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="25" Width="72"/>
-
+        <Grid.Background>
+            <ImageBrush ImageSource="/bg1.jpg" Stretch="Fill" Opacity="0.1"/>
+        </Grid.Background>
+        <Label Content="KeyLoger" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="56" Width="156" FontSize="36" FontFamily="Trebuchet MS"/>
+        <Border MinWidth="400" Margin="20,0,20,0" Background="White" VerticalAlignment="Center" Padding="30" MaxWidth="800" CornerRadius="30" Height="292">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="20" Color="LightGray" ShadowDepth="0"></DropShadowEffect>
+            </Border.Effect>
+            <StackPanel>
+                <Grid Margin="10 0 10 20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="19*"/>
+                        <ColumnDefinition Width="117*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Сервисы" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Width="147" Margin="85,0,0,0" FontFamily="Trebuchet MS" FontSize="20" Grid.ColumnSpan="2"/>
+                    <Label Content="Сохранённые пароли" HorizontalAlignment="Right" VerticalAlignment="Top" Height="32" Width="252" FontFamily="Trebuchet MS" FontSize="20" Grid.Column="1"/>
+                    <ListView Height="250" HorizontalAlignment="Left"  d:ItemsSource="{d:SampleData ItemCount=5}" Width="300" FontFamily="Trebuchet MS" Margin="-15,0,0,0" Grid.ColumnSpan="2" FontSize="18">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <ListView Height="250" HorizontalAlignment="Left"  d:ItemsSource="{d:SampleData ItemCount=5}" Margin="290,0,0,0" Width="300" FontFamily="Trebuchet MS" Grid.Column="1" FontSize="18">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Grid VerticalAlignment="Bottom" Margin="20,20,20,20">
+            <Button Content="Добавить" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" FontFamily="Trebuchet MS" Background="White" BorderBrush="White" Foreground="#DD000000" Height="42"/>
+            <Button Content="Редактировать" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" FontFamily="Trebuchet MS" Background="White" BorderBrush="White" Foreground="#DD000000" Height="42"/>
+            <Button Content="Удалить" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="24" FontFamily="Trebuchet MS" Background="White" BorderBrush="White" Foreground="#DD000000" Height="42"/>
+        </Grid>
     </Grid>
 </Window>
