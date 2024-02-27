@@ -13,3 +13,40 @@ D:\c# project\KeyLoger\obj\Debug\KeyLoger.csproj.GenerateResource.cache
 D:\c# project\KeyLoger\obj\Debug\KeyLoger.csproj.CoreCompileInputs.cache
 D:\c# project\KeyLoger\obj\Debug\KeyLoger.exe
 D:\c# project\KeyLoger\obj\Debug\KeyLoger.pdb
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\KeyLoger.exe.config
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\KeyLoger.exe
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\KeyLoger.pdb
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\MaterialDesignColors.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Buffers.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Memory.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\MaterialDesignColors.pdb
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Buffers.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Memory.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.csproj.AssemblyReference.cache
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.csproj.SuggestedBindingRedirects.cache
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\MainWindow.g.cs
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\App.g.cs
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger_MarkupCompile.cache
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger_MarkupCompile.lref
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\App.baml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\MainWindow.baml
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.g.resources
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.Properties.Resources.resources
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.csproj.GenerateResource.cache
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.csproj.CoreCompileInputs.cache
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.csproj.CopyComplete
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.exe
+C:\Users\11slx\Desktop\!Учёба\4 КУРС\Февраль\УП07.01\Командная фигня\keyloger\obj\Debug\KeyLoger.pdb
