@@ -1,0 +1,15 @@
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.csproj.AssemblyReference.cache
+D:\c# project\KeyLoger\obj\Debug\MainWindow.g.cs
+D:\c# project\KeyLoger\obj\Debug\App.g.cs
+D:\c# project\KeyLoger\obj\Debug\KeyLoger_MarkupCompile.cache
+D:\c# project\KeyLoger\obj\Debug\KeyLoger_MarkupCompile.lref
+D:\c# project\KeyLoger\bin\Debug\KeyLoger.exe.config
+D:\c# project\KeyLoger\bin\Debug\KeyLoger.exe
+D:\c# project\KeyLoger\bin\Debug\KeyLoger.pdb
+D:\c# project\KeyLoger\obj\Debug\MainWindow.baml
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.g.resources
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.Properties.Resources.resources
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.csproj.GenerateResource.cache
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.csproj.CoreCompileInputs.cache
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.exe
+D:\c# project\KeyLoger\obj\Debug\KeyLoger.pdb
